@@ -1,0 +1,198 @@
+[
+  {
+    "particulars": "HDFC Bank",
+    "sector": "Financial Sector",
+    "exchangeCode": "HDFCBANK",
+    "purchasePrice": 1490.0,
+    "qty": 50
+  },
+  {
+    "particulars": "ICICI Bank",
+    "sector": "Financial Sector",
+    "exchangeCode": "532174",
+    "purchasePrice": 780.0,
+    "qty": 84
+  },
+  {
+    "particulars": "Bajaj Housing",
+    "sector": "Financial Sector",
+    "exchangeCode": "544252",
+    "purchasePrice": 130.0,
+    "qty": 504
+  },
+  {
+    "particulars": "Savani Financials",
+    "sector": "Financial Sector",
+    "exchangeCode": "511577",
+    "purchasePrice": 24.0,
+    "qty": 1080
+  },
+  {
+    "particulars": "Affle India",
+    "sector": "Tech Sector",
+    "exchangeCode": "AFFLE",
+    "purchasePrice": 1151.0,
+    "qty": 50
+  },
+  {
+    "particulars": "LTI Mindtree",
+    "sector": "Tech Sector",
+    "exchangeCode": "LTIM",
+    "purchasePrice": 4775.0,
+    "qty": 16
+  },
+  {
+    "particulars": "KPIT Tech",
+    "sector": "Tech Sector",
+    "exchangeCode": "542651",
+    "purchasePrice": 672.0,
+    "qty": 61
+  },
+  {
+    "particulars": "Tata Tech",
+    "sector": "Tech Sector",
+    "exchangeCode": "544028",
+    "purchasePrice": 1072.0,
+    "qty": 63
+  },
+  {
+    "particulars": "BLS E-Services",
+    "sector": "Tech Sector",
+    "exchangeCode": "544107",
+    "purchasePrice": 232.0,
+    "qty": 191
+  },
+  {
+    "particulars": "Tanla",
+    "sector": "Tech Sector",
+    "exchangeCode": "532790",
+    "purchasePrice": 1134.0,
+    "qty": 45
+  },
+  {
+    "particulars": "Dmart",
+    "sector": "Consumer",
+    "exchangeCode": "DMART",
+    "purchasePrice": 3777.0,
+    "qty": 27
+  },
+  {
+    "particulars": "Tata Consumer",
+    "sector": "Consumer",
+    "exchangeCode": "532540",
+    "purchasePrice": 845.0,
+    "qty": 90
+  },
+  {
+    "particulars": "Pidilite",
+    "sector": "Consumer",
+    "exchangeCode": "500331",
+    "purchasePrice": 2376.0,
+    "qty": 36
+  },
+  {
+    "particulars": "Tata Power",
+    "sector": "Power",
+    "exchangeCode": "500400",
+    "purchasePrice": 224.0,
+    "qty": 225
+  },
+  {
+    "particulars": "KPI Green",
+    "sector": "Power",
+    "exchangeCode": "542323",
+    "purchasePrice": 875.0,
+    "qty": 50
+  },
+  {
+    "particulars": "Suzlon",
+    "sector": "Power",
+    "exchangeCode": "532667",
+    "purchasePrice": 44.0,
+    "qty": 450
+  },
+  {
+    "particulars": "Gensol",
+    "sector": "Power",
+    "exchangeCode": "542851",
+    "purchasePrice": 998.0,
+    "qty": 45
+  },
+  {
+    "particulars": "Hariom Pipes",
+    "sector": "Pipe Sector",
+    "exchangeCode": "543517",
+    "purchasePrice": 580.0,
+    "qty": 60
+  },
+  {
+    "particulars": "Astral",
+    "sector": "Pipe Sector",
+    "exchangeCode": "ASTRAL",
+    "purchasePrice": 1517.0,
+    "qty": 56
+  },
+  {
+    "particulars": "Polycab",
+    "sector": "Pipe Sector",
+    "exchangeCode": "542652",
+    "purchasePrice": 2818.0,
+    "qty": 28
+  },
+  {
+    "particulars": "Clean Science",
+    "sector": "Others",
+    "exchangeCode": "543318",
+    "purchasePrice": 1610.0,
+    "qty": 32
+  },
+  {
+    "particulars": "Deepak Nitrite",
+    "sector": "Others",
+    "exchangeCode": "506401",
+    "purchasePrice": 2248.0,
+    "qty": 27
+  },
+  {
+    "particulars": "Fine Organic",
+    "sector": "Others",
+    "exchangeCode": "541557",
+    "purchasePrice": 4284.0,
+    "qty": 16
+  },
+  {
+    "particulars": "Gravita",
+    "sector": "Others",
+    "exchangeCode": "533282",
+    "purchasePrice": 2037.0,
+    "qty": 8
+  },
+  {
+    "particulars": "SBI Life",
+    "sector": "Others",
+    "exchangeCode": "540719",
+    "purchasePrice": 1197.0,
+    "qty": 49
+  },
+  {
+    "particulars": "Infy",
+    "sector": "Others",
+    "exchangeCode": "500209",
+    "purchasePrice": 1647.0,
+    "qty": 36
+  },
+  {
+    "particulars": "Happeist Mind",
+    "sector": "Others",
+    "exchangeCode": "543237",
+    "purchasePrice": 1103.0,
+    "qty": 45
+  },
+  {
+    "particulars": "Easemytrip",
+    "sector": "Others",
+    "exchangeCode": "543272",
+    "purchasePrice": 20.0,
+    "qty": 1332
+  }
+]
